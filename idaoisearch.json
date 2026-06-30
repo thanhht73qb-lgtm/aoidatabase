@@ -2,19 +2,19 @@
   "allowed": {
     "00123EAF": {
       "expiry": "2029-05-18",
-      "name": "tp02"
+      "name": "TP02"
     },
     "0072A6CF": {
       "expiry": "2095-09-09",
-      "name": "may chu"
+      "name": "MC"
     },
     "59BFF2A3": {
       "expiry": "2099-09-09",
-      "name": "a dien"
+      "name": "DIEN"
     },
     "000771F2": {
       "expiry": "2095-09-09",
-      "name": "Máy backup"
+      "name": "BACKUP"
     }
   },
   "server": {
