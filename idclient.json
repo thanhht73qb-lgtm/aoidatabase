@@ -6,7 +6,7 @@
     },
     "0072A6CF": {
       "expiry": "2095-09-09",
-      "name": "MC"
+      "name": "BACKUP"
     },
     "59BFF2A3": {
       "expiry": "2099-09-09",
@@ -14,7 +14,7 @@
     },
     "000771F2": {
       "expiry": "2095-09-09",
-      "name": "BACKUP"
+      "name": "MC"
     }
   },
   "server": {
