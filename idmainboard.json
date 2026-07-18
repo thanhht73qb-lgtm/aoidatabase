@@ -1,28 +1,60 @@
 {
   "allowed": {
-    "00123EAFs": {
+    "TRỐNG": {
       "expiry": "2028-02-22",
-      "name": "TP02"
+      "name": "TRỐNG"
+    },
+    "TP01": {
+      "expiry": "2095-09-09",
+      "name": "MÁY TP01"
+    },
+    "00123EAF": {
+      "expiry": "2095-09-09",
+      "name": "MÁY TP02"
+    },
+    "TP03": {
+      "expiry": "2095-09-09",
+      "name": "MÁY TP03"
+    },
+    "TP04": {
+      "expiry": "2095-09-09",
+      "name": "MÁY TP04"
+    },
+    "TP05": {
+      "expiry": "2095-09-09",
+      "name": "MÁY TP05"
+    },
+    "TP06": {
+      "expiry": "2095-09-09",
+      "name": "MÁY TP06"
+    },
+    "TP07": {
+      "expiry": "2095-09-09",
+      "name": "MÁY TP07"
     },
     "0072A6CF": {
       "expiry": "2095-09-09",
-      "name": "BACKUP"
+      "name": "MÁY BACKUP"
     },
-    "16C9D235": {
+    "000771F2": {
       "expiry": "2095-09-09",
-      "name": "BACKUP2"
+      "name": "MÁY CHỦ"
+      },
+    "THAY HAI": {
+      "expiry": "2095-09-09",
+      "name": "MÁY THẦY HẢI"
     },
     "E8C50589": {
       "expiry": "2099-09-09",
-      "name": "QA"
+      "name": "MÁY QA C.HUỆ"
     },
     "59BFF2A3": {
       "expiry": "2099-09-09",
       "name": "DIE"
     },
-    "000771F2": {
+    "TRỐNG": {
       "expiry": "2095-09-09",
-      "name": "MC"
+      "name": "TRỐNG"
     }
   
   },
