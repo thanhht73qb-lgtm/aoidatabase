@@ -1,7 +1,7 @@
 {
   "allowed": {
     "TRỐNG": {
-      "expiry": "2095-09-09",
+      "expiry": "2028-02-22",
       "name": "TRỐNG"
     },
     "TP01": {
@@ -39,7 +39,7 @@
     "000771F2": {
       "expiry": "2095-09-09",
       "name": "MÁY CHỦ"
-    },
+      },
     "THAY HAI": {
       "expiry": "2095-09-09",
       "name": "MÁY THẦY HẢI"
@@ -51,7 +51,12 @@
     "59BFF2A3": {
       "expiry": "2099-09-09",
       "name": "DIE"
+    },
+    "TRỐNG": {
+      "expiry": "2095-09-09",
+      "name": "TRỐNG"
     }
+  
   },
   "tp_ips": {
     "1": "10.10.48.184",
@@ -61,9 +66,5 @@
     "5": "10.10.48.208",
     "6": "10.10.48.197",
     "7": "10.10.48.192"
-  },
-  "footer_text": {
-    "vi": "© 2026 AOI MainBoard | Developed by ThanhAOI",
-    "zh": "© 2026 AOI MainBoard | 由 ThanhAOI 开发"
   }
 }
