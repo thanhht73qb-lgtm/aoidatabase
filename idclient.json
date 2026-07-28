@@ -32,5 +32,6 @@
   "server": {
     "ip": "10.10.48.122",
     "port": 5000
-  }
+  },
+  "notification": "Chào mừng đến với AOI Image Search Client V1.0.0!\n\nHệ thống đã được cập nhật.\nVui lòng khởi động lại app nếu gặp lỗi kết nối.\n\nNếu cần hỗ trợ, liên hệ admin qua Telegram: @thanh73qb\nCảm ơn bạn đã sử dụng!"
 }
