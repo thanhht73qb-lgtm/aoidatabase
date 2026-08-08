@@ -1,9 +1,5 @@
 {
   "allowed": {
-    "TRỐNG": {
-      "expiry": "2095-09-09",
-      "name": "TRỐNG"
-    },
     "62E8D999C697": {
       "expiry": "2020-09-09",
       "name": "TP01"
