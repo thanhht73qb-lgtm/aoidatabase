@@ -31,10 +31,6 @@
     "ECF13E37B2E5": {
       "expiry": "2027-08-12",
       "name": "TP05"
-    },
-    "7RTY": {
-      "expiry": "2020-12-31",
-      "name": "5YTY"
     }
   },
   "tp_ips": {
