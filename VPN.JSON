@@ -3,7 +3,7 @@
   "servers": [
     {
       "name": "Singapore 1",
-      "config": "vmess://eyJ0eXBlIjogIm5vbmUiLCAicGF0aCI6ICIvdnBuamFudGl0IiwgImhvc3QiOiAiIiwgIm5ldCI6ICJ3cyIsICJwb3J0IjogIjgwIiwgImFkZCI6ICJzZzgudnBuamFudGl0LmNvbSIsICJwcyI6ICJkcnlkcnQtdnBuamFudGl0LmNvbSIsICJ0bHMiOiAiIiwgImFpZCI6ICIwIiwgInYiOiAiMiIsICJpZCI6ICIyM2E5Zjc1Yy1iMDNiLTExZjEtYjgwYy1jZjA1YzAwMzMyZmQifQ=="
+      "config": "vmess://eyJhZGQiOiJzZzgudnBuamFudGl0LmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyM2E5Zjc1Yy1iMDNiLTExZjEtYjgwYy1jZjA1YzAwMzMyZmQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdnBuamFudGl0IiwicGNzIjoiIiwicG9ydCI6IjgwIiwicHMiOiJkcnlkcnQtdnBuamFudGl0LmNvbSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0="
     },
     {
       "name": "VietNam 2",
