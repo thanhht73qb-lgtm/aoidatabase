@@ -3,11 +3,11 @@
   "servers": [
     {
       "name": "Singapore 1",
-      "config": "vmess://MmM5ODExNjQtOWI5My00YmNhLTk0ZmYtYjc4ZDNmODQ5OGQ3QHYycmF5LmNvZGVmeWluYy5jb206NDQzP2VuY3J5cHRpb249YXV0byZzZWN1cml0eT10bHMmc25pPXYycmF5LmNvZGVmeWluYy5jb20mZnA9JnR5cGU9d3MmcGF0aD0vdm1lc3N3cyZob3N0PXYycmF5LmNvZGVmeWluYy5jb20="
+      "config": "vmess://eyJ0eXBlIjogIm5vbmUiLCAicGF0aCI6ICIvdnBuamFudGl0IiwgImhvc3QiOiAiIiwgIm5ldCI6ICJ3cyIsICJwb3J0IjogIjgwIiwgImFkZCI6ICJzZzgudnBuamFudGl0LmNvbSIsICJwcyI6ICJkcnlkcnQtdnBuamFudGl0LmNvbSIsICJ0bHMiOiAiIiwgImFpZCI6ICIwIiwgInYiOiAiMiIsICJpZCI6ICIyM2E5Zjc1Yy1iMDNiLTExZjEtYjgwYy1jZjA1YzAwMzMyZmQifQ=="
     },
     {
       "name": "VietNam 2",
-      "config": "vmess://MmM5ODExNjQtOWI5My00YmNhLTk0ZmYtYjc4ZDNmODQ5OGQ3QHYycmF5LmNvZGVmeWluYy5jb206NDQzP2VuY3J5cHRpb249YXV0byZzZWN1cml0eT10bHMmc25pPXYycmF5LmNvZGVmeWluYy5jb20mZnA9JnR5cGU9d3MmcGF0aD0vdm1lc3N3cyZob3N0PXYycmF5LmNvZGVmeWluYy5jb20="
+      "config": "vvmess://eyJ0eXBlIjogIm5vbmUiLCAicGF0aCI6ICIvdnBuamFudGl0IiwgImhvc3QiOiAiIiwgIm5ldCI6ICJ3cyIsICJwb3J0IjogIjgwIiwgImFkZCI6ICJzZzgudnBuamFudGl0LmNvbSIsICJwcyI6ICJkcnlkcnQtdnBuamFudGl0LmNvbSIsICJ0bHMiOiAiIiwgImFpZCI6ICIwIiwgInYiOiAiMiIsICJpZCI6ICIyM2E5Zjc1Yy1iMDNiLTExZjEtYjgwYy1jZjA1YzAwMzMyZmQifQ=="
     } 
   ]
 }
