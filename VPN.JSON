@@ -1,9 +1,13 @@
 {
-  "version": 2,
+  "version": 1,
   "servers": [
     {
       "name": "Singapore 1",
-      "config": "vmess://eyJ0eXBlIjogIm5vbmUiLCAicGF0aCI6ICIvdnBuamFudGl0IiwgImhvc3QiOiAiIiwgIm5ldCI6ICJ3cyIsICJwb3J0IjogIjEwMDAxIiwgImFkZCI6ICJzZzMudnBuamFudGl0LmNvbSIsICJwcyI6ICJIc2dzaGhzLXZwbmphbnRpdC5jb20iLCAidGxzIjogInRscyIsICJhaWQiOiAiMCIsICJ2IjogIjIiLCAiaWQiOiAiY2NkNjhiMWEtYWZmYS0xMWYxLThjODQtYmY4MjRjMWRkOTkzIn0="
+      "config": "vmess://MmM5ODExNjQtOWI5My00YmNhLTk0ZmYtYjc4ZDNmODQ5OGQ3QHYycmF5LmNvZGVmeWluYy5jb206NDQzP2VuY3J5cHRpb249YXV0byZzZWN1cml0eT10bHMmc25pPXYycmF5LmNvZGVmeWluYy5jb20mZnA9JnR5cGU9d3MmcGF0aD0vdm1lc3N3cyZob3N0PXYycmF5LmNvZGVmeWluYy5jb20="
+    }
+    {
+      "name": "Singapore 2",
+      "config": "vmess://MmM5ODExNjQtOWI5My00YmNhLTk0ZmYtYjc4ZDNmODQ5OGQ3QHYycmF5LmNvZGVmeWluYy5jb206NDQzP2VuY3J5cHRpb249YXV0byZzZWN1cml0eT10bHMmc25pPXYycmF5LmNvZGVmeWluYy5jb20mZnA9JnR5cGU9d3MmcGF0aD0vdm1lc3N3cyZob3N0PXYycmF5LmNvZGVmeWluYy5jb20="
     }
   ]
 }
