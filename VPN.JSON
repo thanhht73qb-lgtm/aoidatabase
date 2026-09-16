@@ -7,7 +7,7 @@
     },
     {
       "name": "vless hk 2",
-      "config": "vless://2f691d4e-b1d4-11f1-9496-00163e22f18a@hk1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#zxngsalpa-vpnjantit.com"
+      "config": "vless://2f691d4e-b1d4-11f1-9496-00163e22f18a@hk1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#zxngsalpa-vpnjantit.com"
     } 
   ]
 }
